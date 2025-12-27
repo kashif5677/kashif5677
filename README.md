@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is kahif and I'm a Full stack developer, from Gahzipur</p>
+<p align="left">My name is kashif and I'm a Full stack developer, from Gahzipur</p>
 
 ###
 
